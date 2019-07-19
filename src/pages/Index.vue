@@ -1,5 +1,13 @@
 <template>
-  <carousel/>
+<div>
+  <div class="row">
+    Some content
+  </div>
+  <div class="row">
+    <carousel style="width: 60%" /> 
+  </div>
+</div>
+
 </template>
 
 <style>
